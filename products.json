@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "name": "headphone",
+      "price": 1999.99,
+      "quantity": 59
+    },
+    {
+      "name": "laptop",
+      "price": 89999.5,
+      "quantity": 25
+    },
+    {
+      "name": "smartphone",
+      "price": 49999.0,
+      "quantity": 120
+    },
+    {
+      "name": "keyboard",
+      "price": 2999.99,
+      "quantity": 85
+    },
+    {
+      "name": "mouse",
+      "price": 1499.49,
+      "quantity": 150
+    },
+    {
+      "name": "monitor",
+      "price": 15999.0,
+      "quantity": 40
+    },
+    {
+      "name": "tablet",
+      "price": 32999.0,
+      "quantity": 30
+    },
+    {
+      "name": "smartwatch",
+      "price": 8999.99,
+      "quantity": 75
+    },
+    {
+      "name": "printer",
+      "price": 12499.0,
+      "quantity": 20
+    },
+    {
+      "name": "external hard drive",
+      "price": 7499.0,
+      "quantity": 60
+    }
+  ]
+}
